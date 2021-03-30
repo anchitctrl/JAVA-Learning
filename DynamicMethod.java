@@ -48,7 +48,7 @@ public class DynamicMethod
 		obj.show();  //calling show from the object of C2
 		
 		//every time we are changing the methods is known as dynamic Method Dispatch
-	
+	 
 	}
 	
 
