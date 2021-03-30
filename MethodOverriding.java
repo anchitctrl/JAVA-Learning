@@ -32,6 +32,6 @@ public class MethodOverriding
 		Y obj=new Y();
 		obj.show();
 
-	}
+	} 
 
 }
